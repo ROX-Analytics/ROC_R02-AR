@@ -1,0 +1,13 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byConnection": {
+      "connectionString": "Data Source=powerbi://api.powerbi.com/v1.0/myorg/ROC - Development;Initial Catalog=SDM01-ROC-Finance;Access Mode=readonly;Integrated Security=ClaimsToken",
+      "pbiServiceModelId": null,
+      "pbiModelVirtualServerName": "sobe_wowvirtualserver",
+      "pbiModelDatabaseName": "58998864-2f72-4bf6-aa6e-81a6b0475050",
+      "name": "EntityDataSource",
+      "connectionType": "pbiServiceXmlaStyleLive"
+    }
+  }
+}

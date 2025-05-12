@@ -1,0 +1,243 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 2174.8544259621976,
+            "y": 610.44790197407178
+          },
+          "nodeIndex": "Measure Table",
+          "nodeLineageTag": "32200705-3727-49ed-87d7-104a2359c42d",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2458.8544259621976,
+            "y": 684.44790197407178
+          },
+          "nodeIndex": "Date Last Refreshed",
+          "nodeLineageTag": "0301fbe1-26e6-4368-964d-7869fbdcb112",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 314.64715046197387,
+            "y": 1042.173541917979
+          },
+          "nodeIndex": "Dim Aging Buckets",
+          "nodeLineageTag": "a551ae43-73cd-4755-9836-bc020d935427",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 603.99577117105468,
+            "y": 926.335007088752
+          },
+          "nodeIndex": "Dim AR Status",
+          "nodeLineageTag": "f15be3a7-8270-4ba7-a11c-8155ead18946",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1188.3082383192159,
+            "y": -50
+          },
+          "nodeIndex": "Dim Business Partner",
+          "nodeLineageTag": "220a4b9d-0ce3-454d-9717-5a648ce17f69",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1584.7737462987448,
+            "y": 720.73915920336037
+          },
+          "nodeIndex": "Dim Calendar DocDate",
+          "nodeLineageTag": "5baf3ffa-0d91-488c-a62d-5eb84691d9ce",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1295.2294299444688,
+            "y": 927.10426239479716
+          },
+          "nodeIndex": "Dim Calendar Due Date",
+          "nodeLineageTag": "58450e29-68bd-4a73-aac8-f7681d8809cd",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 50,
+            "y": 686.60529610541664
+          },
+          "nodeIndex": "Dim Calendar Paid Date",
+          "nodeLineageTag": "b45cd5e4-1844-4d75-abb6-7e8a78e6561d",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 974.07816110511385,
+            "y": 252.81498925968526
+          },
+          "nodeIndex": "Dim Chart of Accounts",
+          "nodeLineageTag": "bf1c8ffd-79fe-4be3-92b9-3c64cdd05042",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1677.0234235424341,
+            "y": 157.16193834185719
+          },
+          "nodeIndex": "Dim Country",
+          "nodeLineageTag": "d6ad1396-0e8d-42df-8a16-8d707bc3d188",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 685.19857118559116,
+            "y": 414.94991454530521
+          },
+          "nodeIndex": "Dim Invoice",
+          "nodeLineageTag": "82ea7586-45a4-4453-9d90-be662b81c407",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1654.998084439057,
+            "y": 539.47118057267949
+          },
+          "nodeIndex": "Dim Invoice Paid",
+          "nodeLineageTag": "229c584f-cf39-45fd-bed8-f39266993da7",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1940.8544259621976,
+            "y": 474.72645590774323
+          },
+          "nodeIndex": "Dim Items",
+          "nodeLineageTag": "c16f6556-6fac-4e42-ae95-d02ddfd0b279",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1548.2302842335978,
+            "y": 335.90065876217909
+          },
+          "nodeIndex": "Dim Transtype",
+          "nodeLineageTag": "4e88dec9-6330-449e-ba88-3969ef43437b",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 59.9682510162865,
+            "y": 1318.8958039481433
+          },
+          "nodeIndex": "Dim User",
+          "nodeLineageTag": "6dea342b-8739-4256-8c34-e661ab3a8c21",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1260.1546306885712,
+            "y": 536.83302598789874
+          },
+          "nodeIndex": "Fact AR Line Items",
+          "nodeLineageTag": "bdaa72d3-b0e1-4e89-ad2b-75c758e06dde",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 891.19726166602106,
+            "y": 622.65770925602681
+          },
+          "nodeIndex": "Fact Journal Transactions",
+          "nodeLineageTag": "a4e3e2e1-757d-4f00-96f4-6d54346e3bfd",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
